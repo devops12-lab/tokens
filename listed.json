@@ -1,0 +1,82 @@
+{
+  "name": "Token Listed",
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://media.discordapp.net/attachments/724275455187746884/727496279747198976/ETHEREUM_METAMASK_LOGO.png",
+  "keywords": ["nomichef", "default", "list"],
+  "tokens": [
+    {
+      "address": "0xc2fbab8de59f2671d55137dfd837f68e9a040867",
+      "chainId": 1,
+      "name": "ETHEREUM METAMASK",
+      "symbol": "ETHK",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/724275455016042547/750428060062449804/ETHK.jpg"
+    },
+    {
+      "address": "0xa52E0EbBfAB94769D23Ec0f275dFbd10767aEB13",
+      "chainId": 1,
+      "name": "ETHEREUM METAMORPHOSIS",
+      "symbol": "ETHP",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/724514856744648724/724788122365460480/1592863906323.png"
+    },
+    {
+      "address": "0x5dda646b0b99a69a24c1e919d4991ef49156b7ca",
+      "chainId": 1,
+      "name": "ETHEREUM ZERENITY 3D",
+      "symbol": "ET3D",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/749037556745764917/749037855724273864/ETHEREUM_ZERENITY_LOGO.png"
+    },
+    {
+      "address": "0x73cc153fabae9439be57af03a6d5fb027ad5cefd",
+      "chainId": 1,
+      "name": "BitcoinRipple",
+      "symbol": "BTRP",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/725727681228046410/725750773538881566/PicsArt_06-24-09.47.58.png"
+    },
+    {
+      "address": "0x648df91548E4C9A4C03ED1889CE91f9d414A7931",
+      "chainId": 1,
+      "name": "FreeBitcoin Token",
+      "symbol": "BTCF",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/723561419248894054/723562232650399834/PicsArt_06-17-12.11.06.png"
+    },
+    {
+      "address": "0x8266897d3044a030f1fca81f18c9ad2daf9e5f09",
+      "chainId": 1,
+      "name": "ETHEREUMtoken",
+      "symbol": "ETHt",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/722257535066832917/724373687310090311/IMG_-zfp02e.jpg"
+    },
+    {
+      "address": "0xD329062ab502F0e4670B347d5035dB89989Feb93",
+      "chainId": 1,
+      "name": "UNI SWAP X",
+      "symbol": "UNIX",
+      "decimals": 18,
+      "logoURI": "https://media.discordapp.net/attachments/736475694753644564/766945111006248990/UNIX_COIN.png"
+    },
+    {
+      "address": "0x5A09bd013bA1932d7Ebc70D4431e860D0C645dC7",
+      "chainId": 1,
+      "name": "MONERO TRUST",
+      "symbol": "XMR1",
+      "decimals": 18,
+      "logoURI": "https://cdn.discordapp.com/attachments/727960154481361037/728132885155938364/MONERO_TRUST.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
